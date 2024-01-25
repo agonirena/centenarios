@@ -1,0 +1,80 @@
+[
+    {
+        "idx": "1",
+        "name": "Alcazaba",
+        "altitude": "3369",
+        "utm_zone": "30",
+        "mgrs_band": "S",
+        "utm_x": "473202",
+        "utm_y": "4102433",
+        "position": {
+            "lat": 37.06777133232722,
+            "lng": -3.3014494826013308
+        }
+    },
+    {
+        "idx": "2",
+        "name": "Cerro Caballo",
+        "altitude": "3011",
+        "utm_zone": "30",
+        "mgrs_band": "S",
+        "utm_x": "460877",
+        "utm_y": "4096283",
+        "position": {
+            "lat": 37.01190124722393,
+            "lng": -3.439769859684784
+        }
+    },
+    {
+        "idx": "3",
+        "name": "Cerro Pelado",
+        "altitude": "3182",
+        "utm_zone": "30",
+        "mgrs_band": "S",
+        "utm_x": "477509",
+        "utm_y": "4106439",
+        "position": {
+            "lat": 37.10399549022956,
+            "lng": -3.2531207547180694
+        }
+    },
+    {
+        "idx": "4",
+        "name": "Chullo",
+        "altitude": "2612",
+        "utm_zone": "30",
+        "mgrs_band": "S",
+        "utm_x": "499994",
+        "utm_y": "4105412",
+        "position": {
+            "lat": 37.09500798808211,
+            "lng": -3.0000675179626315
+        }
+    },
+    {
+        "idx": "5",
+        "name": "Mulhacén",
+        "altitude": "3479",
+        "utm_zone": "30",
+        "mgrs_band": "S",
+        "utm_x": "472300",
+        "utm_y": "4100841",
+        "position": {
+            "lat": 37.053394500433754,
+            "lng": -3.3115372221177823
+        }
+    },
+    {
+        "idx": "6",
+        "name": "Trevenque",
+        "altitude": "2083",
+        "utm_zone": "30",
+        "mgrs_band": "S",
+        "utm_x": "457156",
+        "utm_y": "4103563",
+        "position": {
+            "lat": 37.07736112497271,
+            "lng": -3.482009942283822
+        }
+    }
+]

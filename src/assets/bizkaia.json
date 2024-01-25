@@ -1,0 +1,1526 @@
+[
+    {
+        "idx": "1",
+        "name": "Akarregi",
+        "altitude": "433",
+        "utm_zone": "30",
+        "utm_x": "542563",
+        "utm_y": "4791531",
+        "position": {
+            "lat": 43.27539283029546,
+            "lng": -2.4754598580742746
+        }
+    },
+    {
+        "idx": "2",
+        "name": "Aldamin",
+        "altitude": "1373",
+        "utm_zone": "30",
+        "utm_x": "518153",
+        "utm_y": "4765262",
+        "position": {
+            "lat": 43.03983035537194,
+            "lng": -2.7771426606396545
+        }
+    },
+    {
+        "idx": "3",
+        "name": "Alen",
+        "altitude": "804",
+        "utm_zone": "30",
+        "utm_x": "483051",
+        "utm_y": "4791603",
+        "position": {
+            "lat": 43.27705310930123,
+            "lng": -3.2088828103719904
+        }
+    },
+    {
+        "idx": "4",
+        "name": "Alluitz",
+        "altitude": "1034",
+        "utm_zone": "30",
+        "utm_x": "530596",
+        "utm_y": "4773108",
+        "position": {
+            "lat": 43.11008245154843,
+            "lng": -2.623955589801572
+        }
+    },
+    {
+        "idx": "5",
+        "name": "Altipitatx",
+        "altitude": "1171",
+        "utm_zone": "30",
+        "utm_x": "515203",
+        "utm_y": "4767541",
+        "position": {
+            "lat": 43.06041745810198,
+            "lng": -2.8132962237612853
+        }
+    },
+    {
+        "idx": "6",
+        "name": "Altungana",
+        "altitude": "765",
+        "utm_zone": "30",
+        "utm_x": "524202",
+        "utm_y": "4769773",
+        "position": {
+            "lat": 43.08028264899891,
+            "lng": -2.702686083483347
+        }
+    },
+    {
+        "idx": "7",
+        "name": "Anboto",
+        "altitude": "1331",
+        "utm_zone": "30",
+        "utm_x": "532843",
+        "utm_y": "4770661",
+        "position": {
+            "lat": 43.08795383715727,
+            "lng": -2.5964838909651706
+        }
+    },
+    {
+        "idx": "8",
+        "name": "Armañón",
+        "altitude": "856",
+        "utm_zone": "30",
+        "utm_x": "474830",
+        "utm_y": "4791232",
+        "position": {
+            "lat": 43.27348255329754,
+            "lng": -3.3101818445912463
+        }
+    },
+    {
+        "idx": "9",
+        "name": "Arnotegi",
+        "altitude": "426",
+        "utm_zone": "30",
+        "utm_x": "505293",
+        "utm_y": "4786811",
+        "position": {
+            "lat": 43.23407479436758,
+            "lng": -2.934813877515196
+        }
+    },
+    {
+        "idx": "10",
+        "name": "Arralde",
+        "altitude": "945",
+        "utm_zone": "30",
+        "utm_x": "522397",
+        "utm_y": "4764839",
+        "position": {
+            "lat": 43.0359079576917,
+            "lng": -2.725058257229523
+        }
+    },
+    {
+        "idx": "11",
+        "name": "Arrizuriaga",
+        "altitude": "325",
+        "utm_zone": "30",
+        "utm_x": "517663",
+        "utm_y": "4788001",
+        "position": {
+            "lat": 43.244602084633144,
+            "lng": -2.7824332962366825
+        }
+    },
+    {
+        "idx": "12",
+        "name": "Arrola",
+        "altitude": "537",
+        "utm_zone": "30",
+        "utm_x": "532243",
+        "utm_y": "4795498",
+        "position": {
+            "lat": 43.31162581500468,
+            "lng": -2.602405895817264
+        }
+    },
+    {
+        "idx": "13",
+        "name": "Arrolatza",
+        "altitude": "454",
+        "utm_zone": "30",
+        "utm_x": "500885",
+        "utm_y": "4789257",
+        "position": {
+            "lat": 43.256118351156104,
+            "lng": -2.98909682145566
+        }
+    },
+    {
+        "idx": "14",
+        "name": "Arrugaetako atxa",
+        "altitude": "669",
+        "utm_zone": "30",
+        "utm_x": "510763",
+        "utm_y": "4774431",
+        "position": {
+            "lat": 43.12253733671089,
+            "lng": -2.8676889582250666
+        }
+    },
+    {
+        "idx": "15",
+        "name": "Artanda",
+        "altitude": "550",
+        "utm_zone": "30",
+        "utm_x": "509944",
+        "utm_y": "4782046",
+        "position": {
+            "lat": 43.19112025765668,
+            "lng": -2.877620249995363
+        }
+    },
+    {
+        "idx": "16",
+        "name": "Artaungan",
+        "altitude": "905",
+        "utm_zone": "30",
+        "utm_x": "523909",
+        "utm_y": "4777558",
+        "position": {
+            "lat": 43.150394232223775,
+            "lng": -2.705949991024412
+        }
+    },
+    {
+        "idx": "17",
+        "name": "Askuren / Beratza",
+        "altitude": "710",
+        "utm_zone": "30",
+        "utm_x": "502749",
+        "utm_y": "4760951",
+        "position": {
+            "lat": 43.0012215589465,
+            "lng": -2.966272726636369
+        }
+    },
+    {
+        "idx": "18",
+        "name": "Astxiki",
+        "altitude": "785",
+        "utm_zone": "30",
+        "utm_x": "530163",
+        "utm_y": "4773921",
+        "position": {
+            "lat": 43.117420655555065,
+            "lng": -2.6292331345637203
+        }
+    },
+    {
+        "idx": "19",
+        "name": "Atxarre",
+        "altitude": "312",
+        "utm_zone": "30",
+        "utm_x": "526644",
+        "utm_y": "4804891",
+        "position": {
+            "lat": 43.39642313393293,
+            "lng": -2.6709903156918773
+        }
+    },
+    {
+        "idx": "20",
+        "name": "Axbiribil",
+        "altitude": "354",
+        "utm_zone": "30",
+        "utm_x": "524970",
+        "utm_y": "4799120",
+        "position": {
+            "lat": 43.34451648674726,
+            "lng": -2.6919242943403816
+        }
+    },
+    {
+        "idx": "21",
+        "name": "Axkorrigan",
+        "altitude": "1099",
+        "utm_zone": "30",
+        "utm_x": "514791",
+        "utm_y": "4769547",
+        "position": {
+            "lat": 43.07848950143381,
+            "lng": -2.8183025057320443
+        }
+    },
+    {
+        "idx": "22",
+        "name": "Baldaburu / Baldako txuntxurra",
+        "altitude": "469",
+        "utm_zone": "30",
+        "utm_x": "540389",
+        "utm_y": "4788182",
+        "position": {
+            "lat": 43.24535701552714,
+            "lng": -2.502496491291373
+        }
+    },
+    {
+        "idx": "23",
+        "name": "Baljerri",
+        "altitude": "1106",
+        "utm_zone": "30",
+        "utm_x": "472876",
+        "utm_y": "4779251",
+        "position": {
+            "lat": 43.16553072298158,
+            "lng": -3.333672706408196
+        }
+    },
+    {
+        "idx": "24",
+        "name": "Bargondiko atxa",
+        "altitude": "533",
+        "utm_zone": "30",
+        "utm_x": "522043",
+        "utm_y": "4775201",
+        "position": {
+            "lat": 43.129226668392995,
+            "lng": -2.728992888173709
+        }
+    },
+    {
+        "idx": "25",
+        "name": "Bedarbide",
+        "altitude": "1041",
+        "utm_zone": "30",
+        "utm_x": "494817",
+        "utm_y": "4761256",
+        "position": {
+            "lat": 43.00395541349388,
+            "lng": -3.0635926544175294
+        }
+    },
+    {
+        "idx": "26",
+        "name": "Bedartzandi",
+        "altitude": "700",
+        "utm_zone": "30",
+        "utm_x": "537716",
+        "utm_y": "4792729",
+        "position": {
+            "lat": 43.286438352724694,
+            "lng": -2.5351093925603445
+        }
+    },
+    {
+        "idx": "27",
+        "name": "Berreaga",
+        "altitude": "363",
+        "utm_zone": "30",
+        "utm_x": "511901",
+        "utm_y": "4795931",
+        "position": {
+            "lat": 43.31612167116168,
+            "lng": -2.853235795285657
+        }
+    },
+    {
+        "idx": "28",
+        "name": "Bikirrio",
+        "altitude": "671",
+        "utm_zone": "30",
+        "utm_x": "495032",
+        "utm_y": "4778220",
+        "position": {
+            "lat": 43.15671696708835,
+            "lng": -3.061106338952517
+        }
+    },
+    {
+        "idx": "29",
+        "name": "Bizkargi",
+        "altitude": "555",
+        "utm_zone": "30",
+        "utm_x": "521023",
+        "utm_y": "4791437",
+        "position": {
+            "lat": 43.27545564975657,
+            "lng": -2.7409152086912623
+        }
+    },
+    {
+        "idx": "30",
+        "name": "Burgoa",
+        "altitude": "451",
+        "utm_zone": "30",
+        "utm_x": "519295",
+        "utm_y": "4808749",
+        "position": {
+            "lat": 43.4313870136364,
+            "lng": -2.7616012585775387
+        }
+    },
+    {
+        "idx": "31",
+        "name": "Burgüeno",
+        "altitude": "1044",
+        "utm_zone": "30",
+        "utm_x": "477463",
+        "utm_y": "4781987",
+        "position": {
+            "lat": 43.190318238766665,
+            "lng": -3.277356772784416
+        }
+    },
+    {
+        "idx": "32",
+        "name": "Burretxagana",
+        "altitude": "401",
+        "utm_zone": "30",
+        "utm_x": "528294",
+        "utm_y": "4802711",
+        "position": {
+            "lat": 43.37673330337252,
+            "lng": -2.650728605928849
+        }
+    },
+    {
+        "idx": "33",
+        "name": "Carlista, Pico del",
+        "altitude": "721",
+        "utm_zone": "30",
+        "utm_x": "468333",
+        "utm_y": "4790042",
+        "position": {
+            "lat": 43.26252212565736,
+            "lng": -3.3901773722210407
+        }
+    },
+    {
+        "idx": "34",
+        "name": "Carobo",
+        "altitude": "565",
+        "utm_zone": "30",
+        "utm_x": "491072",
+        "utm_y": "4781414",
+        "position": {
+            "lat": 43.18544193030761,
+            "lng": -3.1098657625512387
+        }
+    },
+    {
+        "idx": "35",
+        "name": "Cotobasero",
+        "altitude": "829",
+        "utm_zone": "30",
+        "utm_x": "466665",
+        "utm_y": "4781638",
+        "position": {
+            "lat": 43.18677632711062,
+            "lng": -3.410220998682182
+        }
+    },
+    {
+        "idx": "36",
+        "name": "Cruz, Pico de la",
+        "altitude": "803",
+        "utm_zone": "30",
+        "utm_x": "493933",
+        "utm_y": "4788907",
+        "position": {
+            "lat": 43.252942813354366,
+            "lng": -3.0747414079589945
+        }
+    },
+    {
+        "idx": "37",
+        "name": "Egilleor",
+        "altitude": "1117",
+        "utm_zone": "30",
+        "utm_x": "511719",
+        "utm_y": "4767571",
+        "position": {
+            "lat": 43.060749410714955,
+            "lng": -2.856081466374702
+        }
+    },
+    {
+        "idx": "38",
+        "name": "Eneabe",
+        "altitude": "782",
+        "utm_zone": "30",
+        "utm_x": "523830",
+        "utm_y": "4764832",
+        "position": {
+            "lat": 43.03580131204243,
+            "lng": -2.7074675112402344
+        }
+    },
+    {
+        "idx": "39",
+        "name": "Erdella",
+        "altitude": "682",
+        "utm_zone": "30",
+        "utm_x": "539703",
+        "utm_y": "4777191",
+        "position": {
+            "lat": 43.14642550765182,
+            "lng": -2.5117359063512095
+        }
+    },
+    {
+        "idx": "40",
+        "name": "Ereñozar",
+        "altitude": "447",
+        "utm_zone": "30",
+        "utm_x": "529437",
+        "utm_y": "4799785",
+        "position": {
+            "lat": 43.35034265974321,
+            "lng": -2.6367764939319738
+        }
+    },
+    {
+        "idx": "41",
+        "name": "Eretza",
+        "altitude": "887",
+        "utm_zone": "30",
+        "utm_x": "495750",
+        "utm_y": "4786531",
+        "position": {
+            "lat": 43.23156007111204,
+            "lng": -3.0523388685723383
+        }
+    },
+    {
+        "idx": "42",
+        "name": "Ermua",
+        "altitude": "292",
+        "utm_zone": "30",
+        "utm_x": "505914",
+        "utm_y": "4808787",
+        "position": {
+            "lat": 43.43195433012416,
+            "lng": -2.926929073092458
+        }
+    },
+    {
+        "idx": "43",
+        "name": "Errialtabaso",
+        "altitude": "1011",
+        "utm_zone": "30",
+        "utm_x": "525983",
+        "utm_y": "4774281",
+        "position": {
+            "lat": 43.12081731666565,
+            "lng": -2.6805964414577295
+        }
+    },
+    {
+        "idx": "44",
+        "name": "Galarregi",
+        "altitude": "596",
+        "utm_zone": "30",
+        "utm_x": "534321",
+        "utm_y": "4798521",
+        "position": {
+            "lat": 43.33875396792748,
+            "lng": -2.576593367844617
+        }
+    },
+    {
+        "idx": "45",
+        "name": "Gallanda",
+        "altitude": "524",
+        "utm_zone": "30",
+        "utm_x": "529193",
+        "utm_y": "4783341",
+        "position": {
+            "lat": 43.202282573658735,
+            "lng": -2.6406594971597155
+        }
+    },
+    {
+        "idx": "46",
+        "name": "Gallarraga",
+        "altitude": "901",
+        "utm_zone": "30",
+        "utm_x": "499383",
+        "utm_y": "4782652",
+        "position": {
+            "lat": 43.196642357029376,
+            "lng": -3.0075940384013595
+        }
+    },
+    {
+        "idx": "47",
+        "name": "Ganekogorta / Belaute",
+        "altitude": "999",
+        "utm_zone": "30",
+        "utm_x": "501664",
+        "utm_y": "4783279",
+        "position": {
+            "lat": 43.20228676985855,
+            "lng": -2.9795175935963836
+        }
+    },
+    {
+        "idx": "48",
+        "name": "Ganeran",
+        "altitude": "823",
+        "utm_zone": "30",
+        "utm_x": "494517",
+        "utm_y": "4789615",
+        "position": {
+            "lat": 43.259322600951975,
+            "lng": -3.067553968249671
+        }
+    },
+    {
+        "idx": "49",
+        "name": "Ganeroitz",
+        "altitude": "561",
+        "utm_zone": "30",
+        "utm_x": "498204",
+        "utm_y": "4788148",
+        "position": {
+            "lat": 43.24613052601938,
+            "lng": -3.022123061084547
+        }
+    },
+    {
+        "idx": "50",
+        "name": "Ganeta",
+        "altitude": "685",
+        "utm_zone": "30",
+        "utm_x": "504226",
+        "utm_y": "4785428",
+        "position": {
+            "lat": 43.221627989888745,
+            "lng": -2.947965140883902
+        }
+    },
+    {
+        "idx": "51",
+        "name": "Ganguren",
+        "altitude": "477",
+        "utm_zone": "30",
+        "utm_x": "510893",
+        "utm_y": "4789754",
+        "position": {
+            "lat": 43.260515467392004,
+            "lng": -2.865788854566749
+        }
+    },
+    {
+        "idx": "52",
+        "name": "Gantzorrotz",
+        "altitude": "779",
+        "utm_zone": "30",
+        "utm_x": "523295",
+        "utm_y": "4779716",
+        "position": {
+            "lat": 43.16984558571674,
+            "lng": -2.7134105002005646
+        }
+    },
+    {
+        "idx": "53",
+        "name": "Garaio",
+        "altitude": "574",
+        "utm_zone": "30",
+        "utm_x": "522943",
+        "utm_y": "4774191",
+        "position": {
+            "lat": 43.120105094656324,
+            "lng": -2.717969772206071
+        }
+    },
+    {
+        "idx": "54",
+        "name": "Garbea",
+        "altitude": "718",
+        "utm_zone": "30",
+        "utm_x": "484224",
+        "utm_y": "4784760",
+        "position": {
+            "lat": 43.215459775682916,
+            "lng": -3.1942307384937334
+        }
+    },
+    {
+        "idx": "55",
+        "name": "Garbola",
+        "altitude": "477",
+        "utm_zone": "30",
+        "utm_x": "518464",
+        "utm_y": "4807111",
+        "position": {
+            "lat": 43.41665883302456,
+            "lng": -2.77192394765429
+        }
+    },
+    {
+        "idx": "56",
+        "name": "Gatzarrieta",
+        "altitude": "1182",
+        "utm_zone": "30",
+        "utm_x": "517072",
+        "utm_y": "4766479",
+        "position": {
+            "lat": 43.05081446235075,
+            "lng": -2.7903762776123564
+        }
+    },
+    {
+        "idx": "57",
+        "name": "Gongeda",
+        "altitude": "666",
+        "utm_zone": "30",
+        "utm_x": "500587",
+        "utm_y": "4784570",
+        "position": {
+            "lat": 43.21391352271932,
+            "lng": -2.9927731632262495
+        }
+    },
+    {
+        "idx": "58",
+        "name": "Gorbeia",
+        "altitude": "1482",
+        "utm_zone": "30",
+        "utm_x": "517826",
+        "utm_y": "4764604",
+        "position": {
+            "lat": 43.033912833992055,
+            "lng": -2.7811781388406174
+        }
+    },
+    {
+        "idx": "59",
+        "name": "Gorosteta",
+        "altitude": "1259",
+        "utm_zone": "30",
+        "utm_x": "515828",
+        "utm_y": "4766883",
+        "position": {
+            "lat": 43.054479423117584,
+            "lng": -2.805639531291196
+        }
+    },
+    {
+        "idx": "60",
+        "name": "Illunbe",
+        "altitude": "445",
+        "utm_zone": "30",
+        "utm_x": "519393",
+        "utm_y": "4775441",
+        "position": {
+            "lat": 43.13146034731938,
+            "lng": -2.761564556873797
+        }
+    },
+    {
+        "idx": "61",
+        "name": "Illunzar",
+        "altitude": "726",
+        "utm_zone": "30",
+        "utm_x": "535094",
+        "utm_y": "4795944",
+        "position": {
+            "lat": 43.31551414554504,
+            "lng": -2.5672221610092185
+        }
+    },
+    {
+        "idx": "62",
+        "name": "Ituiñomendi",
+        "altitude": "403",
+        "utm_zone": "30",
+        "utm_x": "540693",
+        "utm_y": "4794071",
+        "position": {
+            "lat": 43.298367084354624,
+            "lng": -2.498316650540143
+        }
+    },
+    {
+        "idx": "63",
+        "name": "Iturrigorri",
+        "altitude": "1073",
+        "utm_zone": "30",
+        "utm_x": "494028",
+        "utm_y": "4762802",
+        "position": {
+            "lat": 43.017871457665095,
+            "lng": -3.073289808853004
+        }
+    },
+    {
+        "idx": "64",
+        "name": "Jandolamendi",
+        "altitude": "698",
+        "utm_zone": "30",
+        "utm_x": "530803",
+        "utm_y": "4784851",
+        "position": {
+            "lat": 43.215815502806024,
+            "lng": -2.620757977453052
+        }
+    },
+    {
+        "idx": "65",
+        "name": "Jata",
+        "altitude": "598",
+        "utm_zone": "30",
+        "utm_x": "512786",
+        "utm_y": "4805691",
+        "position": {
+            "lat": 43.40399094560801,
+            "lng": -2.842094187540974
+        }
+    },
+    {
+        "idx": "66",
+        "name": "Jorrios",
+        "altitude": "839",
+        "utm_zone": "30",
+        "utm_x": "475533",
+        "utm_y": "4792632",
+        "position": {
+            "lat": 43.28611204983158,
+            "lng": -3.301580818512985
+        }
+    },
+    {
+        "idx": "67",
+        "name": "Kalamendi",
+        "altitude": "315",
+        "utm_zone": "30",
+        "utm_x": "543228",
+        "utm_y": "4796526",
+        "position": {
+            "lat": 43.32033108547061,
+            "lng": -2.466872036474816
+        }
+    },
+    {
+        "idx": "68",
+        "name": "Kalamua / Maaxa",
+        "altitude": "770",
+        "utm_zone": "30",
+        "utm_x": "543874",
+        "utm_y": "4786076",
+        "position": {
+            "lat": 43.22619918537685,
+            "lng": -2.459738321620949
+        }
+    },
+    {
+        "idx": "69",
+        "name": "Kamaraka",
+        "altitude": "797",
+        "utm_zone": "30",
+        "utm_x": "503186",
+        "utm_y": "4780294",
+        "position": {
+            "lat": 43.175402583068234,
+            "lng": -2.9608002927606014
+        }
+    },
+    {
+        "idx": "70",
+        "name": "Kanpona",
+        "altitude": "504",
+        "utm_zone": "30",
+        "utm_x": "531914",
+        "utm_y": "4792365",
+        "position": {
+            "lat": 43.283429035008794,
+            "lng": -2.606644650221756
+        }
+    },
+    {
+        "idx": "71",
+        "name": "Katillotxu",
+        "altitude": "336",
+        "utm_zone": "30",
+        "utm_x": "523075",
+        "utm_y": "4804720",
+        "position": {
+            "lat": 43.39500168423727,
+            "lng": -2.715068247411284
+        }
+    },
+    {
+        "idx": "72",
+        "name": "Kolitza",
+        "altitude": "883",
+        "utm_zone": "30",
+        "utm_x": "479634",
+        "utm_y": "4783139",
+        "position": {
+            "lat": 43.20075329815794,
+            "lng": -3.2506815842199996
+        }
+    },
+    {
+        "idx": "73",
+        "name": "Kukutza / Elorritxugana",
+        "altitude": "729",
+        "utm_zone": "30",
+        "utm_x": "503228",
+        "utm_y": "4773064",
+        "position": {
+            "lat": 43.11029724649069,
+            "lng": -2.960325657426474
+        }
+    },
+    {
+        "idx": "74",
+        "name": "Larragorri",
+        "altitude": "751",
+        "utm_zone": "30",
+        "utm_x": "504048",
+        "utm_y": "4771735",
+        "position": {
+            "lat": 43.09832576638712,
+            "lng": -2.9502569865434483
+        }
+    },
+    {
+        "idx": "75",
+        "name": "Larrea",
+        "altitude": "632",
+        "utm_zone": "30",
+        "utm_x": "491094",
+        "utm_y": "4786923",
+        "position": {
+            "lat": 43.23504931369681,
+            "lng": -3.1096838925118475
+        }
+    },
+    {
+        "idx": "76",
+        "name": "Lekanda",
+        "altitude": "1309",
+        "utm_zone": "30",
+        "utm_x": "516680",
+        "utm_y": "4768314",
+        "position": {
+            "lat": 43.06734724166664,
+            "lng": -2.795134533092041
+        }
+    },
+    {
+        "idx": "77",
+        "name": "Lemoatxa / Gantzabal",
+        "altitude": "363",
+        "utm_zone": "30",
+        "utm_x": "518379",
+        "utm_y": "4784931",
+        "position": {
+            "lat": 43.216940678480306,
+            "lng": -2.7737162163129194
+        }
+    },
+    {
+        "idx": "78",
+        "name": "Leungana",
+        "altitude": "1008",
+        "utm_zone": "30",
+        "utm_x": "524730",
+        "utm_y": "4777001",
+        "position": {
+            "lat": 43.145352203206315,
+            "lng": -2.695877748818127
+        }
+    },
+    {
+        "idx": "79",
+        "name": "Longuitas",
+        "altitude": "593",
+        "utm_zone": "30",
+        "utm_x": "485183",
+        "utm_y": "4789052",
+        "position": {
+            "lat": 43.25412727242185,
+            "lng": -3.1825391142815866
+        }
+    },
+    {
+        "idx": "80",
+        "name": "Luxar",
+        "altitude": "539",
+        "utm_zone": "30",
+        "utm_x": "493680",
+        "utm_y": "4785557",
+        "position": {
+            "lat": 43.22277496749378,
+            "lng": -3.077819799094404
+        }
+    },
+    {
+        "idx": "81",
+        "name": "Luzuero",
+        "altitude": "309",
+        "utm_zone": "30",
+        "utm_x": "491753",
+        "utm_y": "4800486",
+        "position": {
+            "lat": 43.35718631404728,
+            "lng": -3.101771307456912
+        }
+    },
+    {
+        "idx": "82",
+        "name": "Maiaga",
+        "altitude": "403",
+        "utm_zone": "30",
+        "utm_x": "523292",
+        "utm_y": "4796533",
+        "position": {
+            "lat": 43.32127586171143,
+            "lng": -2.7127367301487837
+        }
+    },
+    {
+        "idx": "83",
+        "name": "Malmasin",
+        "altitude": "360",
+        "utm_zone": "30",
+        "utm_x": "507889",
+        "utm_y": "4786073",
+        "position": {
+            "lat": 43.22740663123966,
+            "lng": -2.9028533435942694
+        }
+    },
+    {
+        "idx": "84",
+        "name": "Mandoia",
+        "altitude": "638",
+        "utm_zone": "30",
+        "utm_x": "513899",
+        "utm_y": "4780362",
+        "position": {
+            "lat": 43.17589382310462,
+            "lng": -2.828988999384202
+        }
+    },
+    {
+        "idx": "85",
+        "name": "Marua",
+        "altitude": "362",
+        "utm_zone": "30",
+        "utm_x": "527157",
+        "utm_y": "4804044",
+        "position": {
+            "lat": 43.38877807902243,
+            "lng": -2.664697762092905
+        }
+    },
+    {
+        "idx": "86",
+        "name": "Maza de Pando",
+        "altitude": "1011",
+        "utm_zone": "30",
+        "utm_x": "475163",
+        "utm_y": "4780502",
+        "position": {
+            "lat": 43.176874180584036,
+            "lng": -3.3055951696947146
+        }
+    },
+    {
+        "idx": "87",
+        "name": "Mazo, El",
+        "altitude": "823",
+        "utm_zone": "30",
+        "utm_x": "466489",
+        "utm_y": "4787999",
+        "position": {
+            "lat": 43.2440462702881,
+            "lng": -3.412772951961726
+        }
+    },
+    {
+        "idx": "88",
+        "name": "Mello",
+        "altitude": "629",
+        "utm_zone": "30",
+        "utm_x": "487717",
+        "utm_y": "4794821",
+        "position": {
+            "lat": 43.30612045956965,
+            "lng": -3.1514502270545544
+        }
+    },
+    {
+        "idx": "89",
+        "name": "Memaia",
+        "altitude": "675",
+        "utm_zone": "30",
+        "utm_x": "535935",
+        "utm_y": "4772463",
+        "position": {
+            "lat": 43.10403999655755,
+            "lng": -2.558379386971851
+        }
+    },
+    {
+        "idx": "90",
+        "name": "Mendibil",
+        "altitude": "613",
+        "utm_zone": "30",
+        "utm_x": "538783",
+        "utm_y": "4785521",
+        "position": {
+            "lat": 43.22148060502283,
+            "lng": -2.522465309039471
+        }
+    },
+    {
+        "idx": "91",
+        "name": "Mendibil",
+        "altitude": "549",
+        "utm_zone": "30",
+        "utm_x": "496980",
+        "utm_y": "4791589",
+        "position": {
+            "lat": 43.27711170494623,
+            "lng": -3.037219114785872
+        }
+    },
+    {
+        "idx": "92",
+        "name": "Montaño",
+        "altitude": "319",
+        "utm_zone": "30",
+        "utm_x": "492177",
+        "utm_y": "4797860",
+        "position": {
+            "lat": 43.33354494864295,
+            "lng": -3.0965015203045443
+        }
+    },
+    {
+        "idx": "93",
+        "name": "Moro, Peña del",
+        "altitude": "818",
+        "utm_zone": "30",
+        "utm_x": "464826",
+        "utm_y": "4787430",
+        "position": {
+            "lat": 43.23884699332945,
+            "lng": -3.4332201495909844
+        }
+    },
+    {
+        "idx": "94",
+        "name": "Motrollu",
+        "altitude": "591",
+        "utm_zone": "30",
+        "utm_x": "534424",
+        "utm_y": "4791325",
+        "position": {
+            "lat": 43.27395388887386,
+            "lng": -2.5757735635905874
+        }
+    },
+    {
+        "idx": "95",
+        "name": "Mugarra",
+        "altitude": "969",
+        "utm_zone": "30",
+        "utm_x": "525953",
+        "utm_y": "4777681",
+        "position": {
+            "lat": 43.15143444682965,
+            "lng": -2.6808060182731954
+        }
+    },
+    {
+        "idx": "96",
+        "name": "Munarrikolanda",
+        "altitude": "255",
+        "utm_zone": "30",
+        "utm_x": "503193",
+        "utm_y": "4800793",
+        "position": {
+            "lat": 43.35998919403393,
+            "lng": -2.9605952769068695
+        }
+    },
+    {
+        "idx": "97",
+        "name": "Murga",
+        "altitude": "606",
+        "utm_zone": "30",
+        "utm_x": "515137",
+        "utm_y": "4774729",
+        "position": {
+            "lat": 43.12514597405261,
+            "lng": -2.8139108780153936
+        }
+    },
+    {
+        "idx": "98",
+        "name": "Oderiaga",
+        "altitude": "1244",
+        "utm_zone": "30",
+        "utm_x": "513021",
+        "utm_y": "4766526",
+        "position": {
+            "lat": 43.051317995364634,
+            "lng": -2.840116389642351
+        }
+    },
+    {
+        "idx": "99",
+        "name": "Ogoño / Atxurkulu",
+        "altitude": "305",
+        "utm_zone": "30",
+        "utm_x": "528750",
+        "utm_y": "4806266",
+        "position": {
+            "lat": 43.40872625023607,
+            "lng": -2.6449128411086753
+        }
+    },
+    {
+        "idx": "100",
+        "name": "Oiz",
+        "altitude": "1026",
+        "utm_zone": "30",
+        "utm_x": "533187",
+        "utm_y": "4786169",
+        "position": {
+            "lat": 43.227582386457634,
+            "lng": -2.5913279622963823
+        }
+    },
+    {
+        "idx": "101",
+        "name": "Otoio",
+        "altitude": "396",
+        "utm_zone": "30",
+        "utm_x": "538132",
+        "utm_y": "4802070",
+        "position": {
+            "lat": 43.370526263404535,
+            "lng": -2.529332912330907
+        }
+    },
+    {
+        "idx": "102",
+        "name": "Pastorekortaburu",
+        "altitude": "591",
+        "utm_zone": "30",
+        "utm_x": "506066",
+        "utm_y": "4784337",
+        "position": {
+            "lat": 43.21179126970493,
+            "lng": -2.925321173700713
+        }
+    },
+    {
+        "idx": "103",
+        "name": "Peñalta",
+        "altitude": "1145",
+        "utm_zone": "30",
+        "utm_x": "467974",
+        "utm_y": "4777818",
+        "position": {
+            "lat": 43.15243534196844,
+            "lng": -3.393891705851098
+        }
+    },
+    {
+        "idx": "104",
+        "name": "Picomayor",
+        "altitude": "742",
+        "utm_zone": "30",
+        "utm_x": "493559",
+        "utm_y": "4791507",
+        "position": {
+            "lat": 43.276351836454,
+            "lng": -3.079379248904023
+        }
+    },
+    {
+        "idx": "105",
+        "name": "Saibi",
+        "altitude": "954",
+        "utm_zone": "30",
+        "utm_x": "527092",
+        "utm_y": "4771830",
+        "position": {
+            "lat": 43.0987077727389,
+            "lng": -2.667083598744501
+        }
+    },
+    {
+        "idx": "106",
+        "name": "Santiagozar",
+        "altitude": "392",
+        "utm_zone": "30",
+        "utm_x": "516644",
+        "utm_y": "4782725",
+        "position": {
+            "lat": 43.197116554387094,
+            "lng": -2.7951440251896935
+        }
+    },
+    {
+        "idx": "107",
+        "name": "Sarrimendi",
+        "altitude": "604",
+        "utm_zone": "30",
+        "utm_x": "533415",
+        "utm_y": "4782870",
+        "position": {
+            "lat": 43.19786640415761,
+            "lng": -2.5887200578995206
+        }
+    },
+    {
+        "idx": "108",
+        "name": "Serantes",
+        "altitude": "452",
+        "utm_zone": "30",
+        "utm_x": "494928",
+        "utm_y": "4797950",
+        "position": {
+            "lat": 43.33437895609146,
+            "lng": -3.0625670992032092
+        }
+    },
+    {
+        "idx": "109",
+        "name": "Solaiera",
+        "altitude": "1038",
+        "utm_zone": "30",
+        "utm_x": "496098",
+        "utm_y": "4759715",
+        "position": {
+            "lat": 42.990086219745166,
+            "lng": -3.047864700118002
+        }
+    },
+    {
+        "idx": "110",
+        "name": "Sollube",
+        "altitude": "684",
+        "utm_zone": "30",
+        "utm_x": "519137",
+        "utm_y": "4802091",
+        "position": {
+            "lat": 43.37143990675725,
+            "lng": -2.7637864336370184
+        }
+    },
+    {
+        "idx": "111",
+        "name": "Tontorramendi",
+        "altitude": "386",
+        "utm_zone": "30",
+        "utm_x": "546273",
+        "utm_y": "4795181",
+        "position": {
+            "lat": 43.30803930820489,
+            "lng": -2.429433343417706
+        }
+    },
+    {
+        "idx": "112",
+        "name": "Trasmosomos",
+        "altitude": "696",
+        "utm_zone": "30",
+        "utm_x": "486364",
+        "utm_y": "4780648",
+        "position": {
+            "lat": 43.17847397875788,
+            "lng": -3.167782156737144
+        }
+    },
+    {
+        "idx": "113",
+        "name": "Txarlazo",
+        "altitude": "933",
+        "utm_zone": "30",
+        "utm_x": "496953",
+        "utm_y": "4758827",
+        "position": {
+            "lat": 42.982093586758076,
+            "lng": -3.037371821739742
+        }
+    },
+    {
+        "idx": "114",
+        "name": "Udalatx",
+        "altitude": "1120",
+        "utm_zone": "30",
+        "utm_x": "539581",
+        "utm_y": "4770926",
+        "position": {
+            "lat": 43.090018215020024,
+            "lng": -2.5136831773645483
+        }
+    },
+    {
+        "idx": "115",
+        "name": "Unbe",
+        "altitude": "301",
+        "utm_zone": "30",
+        "utm_x": "506664",
+        "utm_y": "4798001",
+        "position": {
+            "lat": 43.33482575959637,
+            "lng": -2.91779372983053
+        }
+    },
+    {
+        "idx": "116",
+        "name": "Untzillatx",
+        "altitude": "941",
+        "utm_zone": "30",
+        "utm_x": "528853",
+        "utm_y": "4775061",
+        "position": {
+            "lat": 43.12773708299996,
+            "lng": -2.645276184847832
+        }
+    },
+    {
+        "idx": "117",
+        "name": "Untzueta",
+        "altitude": "770",
+        "utm_zone": "30",
+        "utm_x": "507566",
+        "utm_y": "4776064",
+        "position": {
+            "lat": 43.13728098953718,
+            "lng": -2.906967774037628
+        }
+    },
+    {
+        "idx": "118",
+        "name": "Upo",
+        "altitude": "608",
+        "utm_zone": "30",
+        "utm_x": "516993",
+        "utm_y": "4773561",
+        "position": {
+            "lat": 43.11458893774498,
+            "lng": -2.7911297659832264
+        }
+    },
+    {
+        "idx": "119",
+        "name": "Upo",
+        "altitude": "573",
+        "utm_zone": "30",
+        "utm_x": "511463",
+        "utm_y": "4782191",
+        "position": {
+            "lat": 43.19240442435857,
+            "lng": -2.858923123112968
+        }
+    },
+    {
+        "idx": "120",
+        "name": "Urizarmendi",
+        "altitude": "294",
+        "utm_zone": "30",
+        "utm_x": "509244",
+        "utm_y": "4807251",
+        "position": {
+            "lat": 43.41808987843202,
+            "lng": -2.8858110421663388
+        }
+    },
+    {
+        "idx": "121",
+        "name": "Urkiolagirre",
+        "altitude": "1008",
+        "utm_zone": "30",
+        "utm_x": "530385",
+        "utm_y": "4771074",
+        "position": {
+            "lat": 43.09177530394649,
+            "lng": -2.6266601635755626
+        }
+    },
+    {
+        "idx": "122",
+        "name": "Urko",
+        "altitude": "795",
+        "utm_zone": "30",
+        "utm_x": "541683",
+        "utm_y": "4783311",
+        "position": {
+            "lat": 43.20142627338369,
+            "lng": -2.4869258346507483
+        }
+    },
+    {
+        "idx": "123",
+        "name": "Urragiko atxa",
+        "altitude": "588",
+        "utm_zone": "30",
+        "utm_x": "520837",
+        "utm_y": "4774029",
+        "position": {
+            "lat": 43.1187071934092,
+            "lng": -2.7438639081421208
+        }
+    },
+    {
+        "idx": "124",
+        "name": "Urregarai / Igoz",
+        "altitude": "704",
+        "utm_zone": "30",
+        "utm_x": "538023",
+        "utm_y": "4791881",
+        "position": {
+            "lat": 43.2787872287825,
+            "lng": -2.5313840194306962
+        }
+    },
+    {
+        "idx": "125",
+        "name": "Urtemondo",
+        "altitude": "791",
+        "utm_zone": "30",
+        "utm_x": "522148",
+        "utm_y": "4779791",
+        "position": {
+            "lat": 43.17055541506178,
+            "lng": -2.727518441117719
+        }
+    },
+    {
+        "idx": "126",
+        "name": "Usotegieta",
+        "altitude": "1187",
+        "utm_zone": "30",
+        "utm_x": "514573",
+        "utm_y": "4765711",
+        "position": {
+            "lat": 43.04395073404824,
+            "lng": -2.821080948029737
+        }
+    },
+    {
+        "idx": "127",
+        "name": "Zalama",
+        "altitude": "1343",
+        "utm_zone": "30",
+        "utm_x": "466189",
+        "utm_y": "4775773",
+        "position": {
+            "lat": 43.13394319765962,
+            "lng": -3.4157202966401754
+        }
+    }
+]

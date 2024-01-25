@@ -1,0 +1,54 @@
+[
+    {
+        "idx": "1",
+        "name": "Canto Cabronero",
+        "altitude": "2000",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "335233",
+        "utm_y": "4783892",
+        "position": {
+            "lat": 43.189835976175566,
+            "lng": -5.027700066880678
+        }
+    },
+    {
+        "idx": "2",
+        "name": "Peñasanta",
+        "altitude": "2596",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "340588",
+        "utm_y": "4785110",
+        "position": {
+            "lat": 43.20194614923699,
+            "lng": -4.9621887451537905
+        }
+    },
+    {
+        "idx": "3",
+        "name": "Torre Bermeja",
+        "altitude": "2392",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "341430",
+        "utm_y": "4781880",
+        "position": {
+            "lat": 43.17305481455984,
+            "lng": -4.950904227725104
+        }
+    },
+    {
+        "idx": "4",
+        "name": "Torre de Santa María",
+        "altitude": "2476",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "339615",
+        "utm_y": "4786300",
+        "position": {
+            "lat": 43.2124494480975,
+            "lng": -4.9745038975292815
+        }
+    }
+]

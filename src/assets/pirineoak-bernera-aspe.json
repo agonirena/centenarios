@@ -1,0 +1,54 @@
+[
+    {
+        "idx": "1",
+        "name": "Agüerri",
+        "altitude": "2447",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "690412",
+        "utm_y": "4741090",
+        "position": {
+            "lat": 42.79869372428323,
+            "lng": -0.6715332946098735
+        }
+    },
+    {
+        "idx": "2",
+        "name": "Bisaurín",
+        "altitude": "2670",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "693026",
+        "utm_y": "4740027",
+        "position": {
+            "lat": 42.78847485394888,
+            "lng": -0.6399577476442122
+        }
+    },
+    {
+        "idx": "3",
+        "name": "Castiello d'Acher",
+        "altitude": "2384",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "690622",
+        "utm_y": "4743779",
+        "position": {
+            "lat": 42.822836900268584,
+            "lng": -0.668058100446729
+        }
+    },
+    {
+        "idx": "4",
+        "name": "Punta Acué / Pic d'Espelunguèra",
+        "altitude": "2258",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "696021",
+        "utm_y": "4743638",
+        "position": {
+            "lat": 42.82020454435513,
+            "lng": -0.6021150783332874
+        }
+    }
+]

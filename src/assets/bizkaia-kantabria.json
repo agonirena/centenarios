@@ -1,0 +1,145 @@
+[
+    {
+        "idx": "1",
+        "name": "Cerredo",
+        "altitude": "644",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "477462",
+        "utm_y": "4804009",
+        "position": {
+            "lat": 43.388615908777254,
+            "lng": -3.2782716231644637
+        }
+    },
+    {
+        "idx": "2",
+        "name": "Hornijo",
+        "altitude": "1258",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "456193",
+        "utm_y": "4787142",
+        "position": {
+            "lat": 43.23580168987489,
+            "lng": -3.5395213423026544
+        }
+    },
+    {
+        "idx": "3",
+        "name": "Hoyufresnu, Pico",
+        "altitude": "1056",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "459231",
+        "utm_y": "4787276",
+        "position": {
+            "lat": 43.237178610962935,
+            "lng": -3.502117096154713
+        }
+    },
+    {
+        "idx": "4",
+        "name": "Mazo Grande",
+        "altitude": "1199",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "455233",
+        "utm_y": "4785632",
+        "position": {
+            "lat": 43.222148810054165,
+            "lng": -3.551221507531954
+        }
+    },
+    {
+        "idx": "5",
+        "name": "Mortera, La",
+        "altitude": "722",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "462759",
+        "utm_y": "4786767",
+        "position": {
+            "lat": 43.232777817267014,
+            "lng": -3.4586327780500965
+        }
+    },
+    {
+        "idx": "6",
+        "name": "Mortillano",
+        "altitude": "1411",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "452822",
+        "utm_y": "4787773",
+        "position": {
+            "lat": 43.24128004474824,
+            "lng": -3.5810901139859133
+        }
+    },
+    {
+        "idx": "7",
+        "name": "Nieves, Pico de las",
+        "altitude": "773",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "471084",
+        "utm_y": "4795380",
+        "position": {
+            "lat": 43.31069854064517,
+            "lng": -3.3565628952024356
+        }
+    },
+    {
+        "idx": "8",
+        "name": "Porracolina",
+        "altitude": "1414",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "446339",
+        "utm_y": "4787497",
+        "position": {
+            "lat": 43.23836144882584,
+            "lng": -3.660909286322464
+        }
+    },
+    {
+        "idx": "9",
+        "name": "Rubrillu",
+        "altitude": "911",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "460352",
+        "utm_y": "4793884",
+        "position": {
+            "lat": 43.29673906026085,
+            "lng": -3.488787053323959
+        }
+    },
+    {
+        "idx": "10",
+        "name": "San Vicente",
+        "altitude": "913",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "461131",
+        "utm_y": "4787380",
+        "position": {
+            "lat": 43.23821538338318,
+            "lng": -3.4787245640987545
+        }
+    },
+    {
+        "idx": "11",
+        "name": "Santullán, Peña de",
+        "altitude": "476",
+        "utm_zone": "30",
+        "mgrs_band": "T",
+        "utm_x": "482134",
+        "utm_y": "4798617",
+        "position": {
+            "lat": 43.34018973273035,
+            "lng": -3.220412113267297
+        }
+    }
+]
